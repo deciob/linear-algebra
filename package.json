@@ -1,0 +1,18 @@
+{
+  "name": "linear-algebra",
+  "version": "1.0.0",
+  "description": "Notes on linear algebra",
+  "main": "index.js",
+  "repository": "git@github.com:deciob/linear-algebra.git",
+  "author": "decio.battaglia@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "rollup": "^1.6.0"
+  },
+  "dependencies": {
+    "immer": "^2.1.1",
+    "katex": "^0.10.1",
+    "react": "^16.8.4"
+  }
+}
